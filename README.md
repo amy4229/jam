@@ -1,3 +1,9 @@
 # JAM
 
-Zoom Clone using NODE.js WebRTC and WebSocket
+## chatting program using websocket
+
+## function 
+
+* change nicknaame
+* send messages
+* receive massages
